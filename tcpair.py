@@ -27,7 +27,3 @@ with open('sina.html', 'wb') as f:
 
 a = "dev_lc_001"
 print(a)
-
-b = "dev_lc_002"
-print(b)
-
