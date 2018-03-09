@@ -34,5 +34,3 @@ print(b)
 c = "dev_lc_003"
 print(c)
 
-d = "dev_lc_004"
-print(d)
