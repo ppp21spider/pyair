@@ -22,8 +22,7 @@ s.close()
 header, html = data.split(b'\r\n\r\n', 1)
 print(header.decode('utf-8'))
 # 把接收的数据写入文件:
-with open('sina.html', 'wb') as f:
-    f.write(html)
+
 
 a = "dev_lc_001"
 print(a)
@@ -35,4 +34,7 @@ c = "dev_lc_003"
 print(c)
 
 d = "dev_lc_004"
+print(d)
+
+d = "dev_lc_005"
 print(d)
